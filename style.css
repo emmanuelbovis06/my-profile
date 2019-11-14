@@ -1,0 +1,22 @@
+body
+{
+	font-family: Verdana;
+}
+
+
+body
+{
+    background-image: url("images/kedge.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+    background-position: top left; /* Le fond sera placé en haut à droite */
+}
+h2
+{
+	text-decoration: underline;
+}
+
+h3
+{
+	color: maroon; 
+}
